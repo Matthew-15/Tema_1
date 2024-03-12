@@ -1,0 +1,14 @@
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\Tema_1.exe
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\Tema_1.deps.json
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\Tema_1.runtimeconfig.json
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\Tema_1.dll
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\Tema_1.pdb
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\Tema_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\Tema_1.AssemblyInfoInputs.cache
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\Tema_1.AssemblyInfo.cs
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\Tema_1.csproj.CoreCompileInputs.cache
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\Tema_1.dll
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\refint\Tema_1.dll
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\Tema_1.pdb
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\Tema_1.genruntimeconfig.cache
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\ref\Tema_1.dll

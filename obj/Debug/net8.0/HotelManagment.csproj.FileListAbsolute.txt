@@ -1,0 +1,14 @@
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\HotelManagment.exe
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\HotelManagment.deps.json
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\HotelManagment.runtimeconfig.json
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\HotelManagment.dll
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\bin\Debug\net8.0\HotelManagment.pdb
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\HotelManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\HotelManagment.AssemblyInfoInputs.cache
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\HotelManagment.AssemblyInfo.cs
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\HotelManagment.csproj.CoreCompileInputs.cache
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\HotelManagment.dll
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\refint\HotelManagment.dll
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\HotelManagment.pdb
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\HotelManagment.genruntimeconfig.cache
+C:\M A T E I\Facultate\Licenta\Tema_1\Tema_1\obj\Debug\net8.0\ref\HotelManagment.dll
